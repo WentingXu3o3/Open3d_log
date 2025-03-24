@@ -19,5 +19,6 @@ OpenGL version string: 2.1 INTEL-23.0.22
 Also, I tried with GNOME for virtual display of Ubuntu Server
 Make sure "XEYES" and "glxgears" can work first with the right display port.
 ![Screenshot 2025-03-24 at 16 08 35](https://github.com/user-attachments/assets/135fdedf-33ba-4067-ba58-738a4fb19215)
+![Screenshot 2025-03-24 at 16 12 43](https://github.com/user-attachments/assets/2a36bded-1a9d-4ef7-adc3-233b1b17fd35)
 
 ![Screenshot 2025-03-24 at 16 07 24](https://github.com/user-attachments/assets/e5c718ff-db0f-4ded-b27c-1a4ff7511728)
